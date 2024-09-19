@@ -1,0 +1,32 @@
+package org.jsp.usermvcapp.dao;
+
+
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityTransaction;
+
+import org.jsp.usermvcapp.dto.User;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class UserDao 
+{
+  @Autowired
+	private EntityManager entitymanager;
+  
+  public User saveUser(User user) 
+  {
+	  EntityTransaction entityTransaction = entitymanager.getTransaction();
+	  entitymanager.persist(user);
+	  entityTransaction.begin();
+	  entityTransaction.commit();
+	return user;
+  }
+  
+  public User findById(int id)
+  {
+	  return entitymanager.find(User.class,id);
+  }
+  
+}

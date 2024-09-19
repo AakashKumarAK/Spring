@@ -1,0 +1,25 @@
+package org.jsp.usermvcapp.Controller;
+
+
+
+import org.jsp.usermvcapp.dao.UserDao;
+import org.jsp.usermvcapp.dto.User;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class UserController
+{
+ @Autowired
+ private UserDao userdao;
+ 
+ @RequestMapping(value="/open-register")
+ public ModelAndView openRegister(ModelAndView modelAndView)
+ {
+	modelAndView.setViewName("register");
+	modelAndView.addObject("user", new User());
+	return modelAndView;
+ }
+}

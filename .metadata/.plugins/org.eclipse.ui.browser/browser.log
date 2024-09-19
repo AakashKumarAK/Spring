@@ -1,0 +1,128 @@
+
+Apr 12, 2024 13:53:52.93 NEW SESSION
+Apr 12, 2024 13:53:52.94 [12140:4208:0412/135352.274:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 13:53:52.98 [12140:4208:0412/135352.274:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 13:53:52.98 [12140:4208:0412/135352.274:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:53:52.98 [12140:4208:0412/135352.274:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:53:52.98 [12140:4208:0412/135352.274:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:53:52.98 [12140:4208:0412/135352.274:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:54:01.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2024 13:54:13.53 [12140:4208:0412/135413.533:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:54:13.78 [12140:4208:0412/135413.783:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:54:15.79 [12140:4208:0412/135415.799:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:54:17.06 [12140:4208:0412/135417.065:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 13:54:17.47 [12140:4208:0412/135417.471:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:54:20.19 [12140:19368:0412/135420.190:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2024 13:54:21.69 [12140:4208:0412/135421.690:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 13:54:59.40 [12140:4208:0412/135459.408:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:55:06.14 [12140:4208:0412/135506.143:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:55:12.90 [12140:4208:0412/135512.908:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:55:14.33 [12140:4208:0412/135514.330:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 13:55:16.22 [12140:4208:0412/135516.221:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 13:55:16.22 [12140:4208:0412/135516.221:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:56:36.61 [12140:4208:0412/135636.613:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:56:42.25 [12140:4208:0412/135642.254:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:56:43.22 [12140:4208:0412/135643.222:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:56:46.06 [12140:4208:0412/135646.066:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 13:56:49.00 [12140:4208:0412/135649.004:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:56:54.25 [12140:4208:0412/135654.254:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 13:59:24.53 [12140:4208:0412/135924.537:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:59:49.94 [12140:4208:0412/135949.943:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 13:59:59.58 [12140:4208:0412/135959.584:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:00:08.11 [12140:4208:0412/140008.115:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 14:00:17.97 [12140:4208:0412/140017.975:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 14:00:35.16 [12140:4208:0412/140035.162:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:58:43.78 [12140:19368:0412/145843.776:ERROR:device_event_log_impl.cc(195)] [14:58:43.744] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 12, 2024 14:58:44.78 [12140:4208:0412/145844.781:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 14:58:45.20 [12140:4208:0412/145845.204:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Apr 12, 2024 14:58:45.22 [12140:4208:0412/145845.220:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:58:45.23 [12140:4208:0412/145845.236:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:58:45.23 [12140:4208:0412/145845.236:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:58:45.23 [12140:4208:0412/145845.236:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 14:58:45.25 [12140:19368:0412/145845.251:ERROR:sharing_service.cc(209)] Device registration failed with transient error
+Apr 12, 2024 15:03:41.56 [12140:4208:0412/150341.562:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 15:04:04.07 [12140:4208:0412/150404.077:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 15:05:02.23 [12140:4208:0412/150502.234:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 15:06:34.68 [12140:4208:0412/150634.687:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 15:08:16.54 [12140:19368:0412/150816.531:ERROR:device_event_log_impl.cc(195)] [15:08:16.445] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 12, 2024 15:08:39.10 [12140:4208:0412/150839.105:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2024 15:08:50.63 [12140:4208:0412/150850.636:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2024 15:08:50.73 [12140:4208:0412/150850.730:ERROR:checkin_request.cc(243)] Check-in request got net error: -21
+Apr 12, 2024 15:08:59.85 [12140:4208:0412/150859.855:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2024 15:09:03.01 [12140:19368:0412/150903.011:ERROR:device_event_log_impl.cc(195)] [15:09:03.008] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 12, 2024 15:09:03.37 [12140:4208:0412/150903.371:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2024 15:09:43.13 [12140:4208:0412/150943.138:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Apr 12, 2024 15:16:07.10 [12140:4208:0412/151607.107:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 13, 2024 15:09:37.94 NEW SESSION
+Apr 13, 2024 15:09:37.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2024 15:09:38.11 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 13, 2024 15:23:34.43 [23484:21000:0413/152334.435:ERROR:interface_endpoint_client.cc(707)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Apr 15, 2024 15:34:55.90 NEW SESSION
+Apr 15, 2024 15:34:55.90 [2356:21956:0415/153455.860:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 16:19:34.74 [2356:25472:0415/161934.730:ERROR:device_event_log_impl.cc(195)] [16:19:34.723] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 16:19:39.33 [2356:21956:0415/161939.221:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2024 16:19:42.75 [2356:22244:0415/161942.721:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 15, 2024 16:22:46.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2024 16:22:51.63 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 15, 2024 16:29:17.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2024 16:29:18.06 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 15, 2024 16:33:48.78 [18644:13536:0415/163348.768:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 16:33:48.79 [18644:13536:0415/163348.768:ERROR:interface_endpoint_client.cc(707)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 16:33:48.81 [18644:13536:0415/163348.768:ERROR:interface_endpoint_client.cc(707)] Message 4 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 16:39:03.06 [18644:20540:0415/163903.062:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 18:41:41.98 [18644:13536:0415/184141.971:ERROR:device_event_log_impl.cc(195)] [18:41:41.175] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 18:41:46.95 [18644:20540:0415/184146.957:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 16, 2024 16:16:27.72 NEW SESSION
+Apr 16, 2024 16:16:27.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 16:18:31.05 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 16, 2024 16:35:06.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 16:35:09.29 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 16, 2024 16:36:37.16 ERROR: Client requested cancel during Invoke()
+Apr 16, 2024 16:40:58.93 ERROR: Client requested cancel during Invoke()
+Apr 16, 2024 16:42:33.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 16:43:21.65 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 16, 2024 16:44:04.81 [11456:6316:0416/164404.656:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 18:02:17.99 [11456:6600:0416/180217.997:ERROR:device_event_log_impl.cc(195)] [18:02:17.980] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 16, 2024 18:02:19.26 [11456:6316:0416/180219.252:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 16, 2024 18:02:23.43 [11456:6316:0416/180223.421:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 17, 2024 18:31:22.02 NEW SESSION
+Apr 17, 2024 18:31:22.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 18:31:31.92 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 17, 2024 18:55:31.45 [23980:17988:0417/185531.437:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 19:09:26.77 [23980:10016:0417/190926.775:ERROR:device_event_log_impl.cc(195)] [19:09:26.729] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 17, 2024 19:09:27.83 [23980:17988:0417/190927.818:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 19:09:58.10 ERROR: Client requested cancel during Invoke()
+Apr 17, 2024 19:10:00.58 ERROR: Client requested cancel during Invoke()
+Apr 17, 2024 19:14:52.56 [23980:17988:0417/191452.515:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 08:43:33.27 [23980:17988:0418/084333.259:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 08:44:30.34 ERROR: Client requested cancel during Invoke()
+Apr 18, 2024 09:02:45.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2024 09:02:46.32 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 18, 2024 09:26:10.37 [18288:5812:0418/092610.339:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 09:36:51.75 [18288:7708:0418/093651.757:ERROR:device_event_log_impl.cc(195)] [09:36:51.742] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 18, 2024 10:09:54.08 [18288:5812:0418/100954.040:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 10:14:07.77 [18288:7708:0418/101407.775:ERROR:device_event_log_impl.cc(195)] [10:14:07.746] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 18, 2024 10:14:11.71 [18288:5812:0418/101411.713:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 18, 2024 10:15:17.00 [18288:5812:0418/101517.003:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 10:46:14.04 [18288:5812:0418/104614.047:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 10:46:28.38 [18288:5812:0418/104628.368:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 10:47:12.70 [18288:5812:0418/104712.707:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 18, 2024 11:53:31.78 [18288:5812:0418/115331.722:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 18, 2024 14:13:14.95 [18288:5812:0418/141314.958:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:13:18.42 [18288:18768:0418/141318.426:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:13:39.60 [18288:5812:0418/141339.607:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:14:38.10 [18288:5812:0418/141438.101:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:15:23.19 [18288:6828:0418/141523.194:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:16:08.98 [18288:5812:0418/141608.987:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:16:14.31 [18288:6828:0418/141614.316:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:17:27.94 [18288:6828:0418/141727.947:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:19:03.71 [18288:5812:0418/141903.713:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:20:22.80 [18288:1732:0418/142022.806:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:26:40.38 [18288:5812:0418/142640.381:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 18, 2024 14:27:30.80 [18288:6828:0418/142730.807:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 18, 2024 14:30:44.08 [18288:5812:0418/143044.089:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 18, 2024 14:30:44.26 [18288:9196:0418/143044.261:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
